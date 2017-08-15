@@ -1,3 +1,3 @@
 # Hello
-First 
-Deneme yapıyorum
+First. 
+Deneme yapıyorum.
